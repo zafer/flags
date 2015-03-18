@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="135px" height="90px" viewBox="0 0 135 90" enable-background="new 0 0 135 90" xml:space="preserve">
+<g id="Flag_17_">
+	<rect fill="#2980B9" width="135" height="90"/>
+	<g>
+		<rect y="70" fill="#ECF0F1" width="135" height="10"/>
+		<rect y="30" fill="#ECF0F1" width="135" height="10"/>
+		<rect y="10" fill="#ECF0F1" width="135" height="10"/>
+	</g>
+	<g>
+		<rect fill="#2980B9" width="50" height="50"/>
+		<polygon fill="#ECF0F1" points="30,50 30,30 50,30 50,20 30,20 30,0 20,0 20,20 0,20 0,30 20,30 20,50 0,50 0,60 135,60 135,50 		
+			"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="135px" height="90px" viewBox="0 0 135 90" enable-background="new 0 0 135 90" xml:space="preserve">
+<g id="South_Korea">
+	<g id="Flag_26_">
+		<rect id="White_3_" fill="#ECF0F1" width="135" height="90"/>
+		<g id="Trigrams">
+			<g id="Gon">
+				<g>
+					
+						<rect x="95.4" y="57.8" transform="matrix(-0.5592 0.829 -0.829 -0.5592 206.3646 9.7075)" fill="#333333" width="10.3" height="3.7"/>
+					
+						<rect x="91.9" y="64.7" transform="matrix(0.829 0.5592 -0.5592 0.829 55.0775 -40.5086)" fill="#333333" width="3.7" height="10.3"/>
+				</g>
+				<g>
+					
+						<rect x="100.1" y="61" transform="matrix(-0.5592 0.829 -0.829 -0.5592 216.243 10.7463)" fill="#333333" width="10.3" height="3.7"/>
+					
+						<rect x="96.6" y="67.8" transform="matrix(0.8291 0.5591 -0.5591 0.8291 57.6166 -42.5726)" fill="#333333" width="3.8" height="10.3"/>
+				</g>
+				<g>
+					
+						<rect x="104.8" y="64.1" transform="matrix(-0.5592 0.829 -0.829 -0.5592 226.1221 11.7846)" fill="#333333" width="10.3" height="3.8"/>
+					
+						<rect x="101.2" y="71" transform="matrix(0.8291 0.5591 -0.5591 0.8291 60.172 -44.6422)" fill="#333333" width="3.8" height="10.3"/>
+				</g>
+			</g>
+			<g id="Gam">
+				
+					<rect x="90.6" y="20.2" transform="matrix(-0.5592 -0.829 0.829 -0.5592 140.3968 118.8939)" fill="#333333" width="22.5" height="3.8"/>
+				<g>
+					
+						<rect x="101.2" y="8.8" transform="matrix(-0.8289 0.5594 -0.5594 -0.8289 196.2821 -32.1824)" fill="#333333" width="3.7" height="10.3"/>
+					
+						<rect x="104.7" y="22.2" transform="matrix(-0.5592 -0.829 0.829 -0.5592 151.4018 128.5571)" fill="#333333" width="10.3" height="3.8"/>
+				</g>
+				<g>
+					
+						<rect x="95.4" y="28.4" transform="matrix(-0.5592 -0.829 0.829 -0.5592 131.6447 130.634)" fill="#333333" width="10.3" height="3.7"/>
+					
+						<rect x="91.9" y="15.1" transform="matrix(-0.829 0.5593 -0.5593 -0.829 182.7466 -15.4495)" fill="#333333" width="3.8" height="10.3"/>
+				</g>
+			</g>
+			<g id="Ri">
+				<g>
+					
+						<rect x="26.6" y="62.9" transform="matrix(-0.5592 -0.829 0.829 -0.5592 5.3043 132.3477)" fill="#333333" width="22.5" height="3.7"/>
+					
+						<rect x="17.3" y="69.2" transform="matrix(-0.5592 -0.829 0.829 -0.5592 -14.453 134.4247)" fill="#333333" width="22.5" height="3.7"/>
+				</g>
+				<g>
+					
+						<rect x="27.9" y="57.7" transform="matrix(-0.8289 0.5593 -0.5593 -0.8289 89.5988 98.314)" fill="#333333" width="3.8" height="10.3"/>
+					
+						<rect x="31.4" y="71.1" transform="matrix(-0.5592 -0.8291 0.8291 -0.5592 -3.4519 144.0865)" fill="#333333" width="10.3" height="3.7"/>
+				</g>
+			</g>
+			<g id="Geon">
+				
+					<rect x="17.3" y="17.1" transform="matrix(-0.5592 0.829 -0.829 -0.5592 60.2198 5.9334)" fill="#333333" width="22.5" height="3.8"/>
+				
+					<rect x="21.9" y="20.2" transform="matrix(-0.5592 0.829 -0.829 -0.5592 70.0984 6.9725)" fill="#333333" width="22.5" height="3.7"/>
+				
+					<rect x="26.6" y="23.4" transform="matrix(-0.5592 0.829 -0.829 -0.5592 79.9776 8.0107)" fill="#333333" width="22.5" height="3.7"/>
+			</g>
+		</g>
+		<g id="Taegeuk">
+			<path fill="#E74C3C" d="M80,26.3c-10.3-6.9-24.3-4.1-31.2,6.2c-3.4,5.2-2,12.2,3.1,15.6c5.2,3.4,12.2,2,15.6-3.1
+				c3.4-5.2,10.4-6.6,15.6-3.1c5.2,3.4,6.6,10.4,3.1,15.6C93.1,47.1,90.3,33.2,80,26.3z"/>
+			<path fill="#336699" d="M83.1,41.9c-5.2-3.4-12.2-2-15.6,3.1c-3.4,5.2-10.4,6.6-15.6,3.1c-5.2-3.4-6.6-10.4-3.1-15.6
+				c-6.9,10.3-4.1,24.3,6.2,31.2c10.3,6.9,24.3,4.1,31.2-6.2C89.7,52.3,88.3,45.3,83.1,41.9z"/>
+		</g>
+	</g>
+</g>
+</svg>
