@@ -1,6 +1,6 @@
 # World flags
 
-As part of localization at Twice (@twiceclothes), I&rsquo;ve created flags for all the countries we ship to. It only represents a small portion of the world&rsquo;s many nations, but I plan to keep adding flags, as well as work with other contributors.
+As part of localization at <a href="https://github.com/twiceclothes">Twice</a> (@twiceclothes), I&rsquo;ve created flags for all the countries we ship to. It only represents a small portion of the world&rsquo;s many nations, but I plan to keep adding flags, as well as work with other contributors.
 
 ## Primary sources
 
